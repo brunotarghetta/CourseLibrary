@@ -1,5 +1,5 @@
 # CourseLibrary
-## Backend .Net support training - Begginers
+## Backend .Net support training - Beginers
 
 Pluralsight: [Building a RESTful API with ASP.NET Core 3](https://app.pluralsight.com/courses/04c8cfcd-b735-443c-96bb-e8699007b730/table-of-contents/)
 
