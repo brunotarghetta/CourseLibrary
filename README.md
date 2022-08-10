@@ -1,7 +1,7 @@
 # CourseLibrary
 ## Backend .Net support training - Begginers
 
-Pluralsight: [Building a RESTful API with ASP.NET Core 3](vhttps://app.pluralsight.com/courses/04c8cfcd-b735-443c-96bb-e8699007b730/table-of-contents/)
+Pluralsight: [Building a RESTful API with ASP.NET Core 3](https://app.pluralsight.com/courses/04c8cfcd-b735-443c-96bb-e8699007b730/table-of-contents/)
 
 10 Modules
 Technologies stack is based on Wellsky client.
